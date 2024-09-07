@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spi.DocumentationType"/>
+    <fullyQualifiedTypeName name="springfox.documentation.RequestHandler"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.RequestHandlerSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.service.ApiInfo"/>
+    <fullyQualifiedTypeName name="springfox.documentation.service.Contact"/>
+    <fullyQualifiedTypeName name="org.hibernate.mapping.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="org.modelmapper.ModelMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.blogapis.payloads.UserDto"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.web.servlet.FilterRegistrationBean"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.blogapis.payloads.PostDto"/>
+    <fullyQualifiedTypeName name="com.blogapis.payloads.CommentDto"/>
+</qualifiedTypeNameHistroy>
